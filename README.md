@@ -1,47 +1,52 @@
-#  HackerRank Skills Certification: Python & SQL
+# HackerRank Proficiency: Python & SQL
 
-This repository serves as a showcase of my technical proficiency in Python and SQL, demonstrated through the completion of rigorous challenges and skill assessments on HackerRank.
+This repository serves as a showcase of my technical proficiency in **Python** and **SQL**, demonstrated through the completion of rigorous challenges and skill assessments on **HackerRank**. 
 
 By earning these badges, I have validated my ability to solve complex problems and write optimized, production-ready code.
 
 ---
 
-###  Achievements & Badges
+### Skill Milestones
 
-| Domain | Badge | Level | Skills Demonstrated |
-| :--- | :--- | :--- | :--- |
-| **Python** |  | **Gold / 5-Star** | Functional Programming, Data Structures, RegEx, OOPs |
-| **SQL** |  | **Gold / 5-Star** | Complex Joins, Subqueries, Aggregations, Data Reporting |
-
----
-
-### Repository Structure
-
-* **`/Python-Challenges`**: Isme Basic Data Types, Strings, Sets, aur Math related problems ke solutions hain.
-    * *Highlights:* Implementations of list comprehensions, nested lists, and map/lambda functions.
-* **`/SQL-Challenges`**: Isme MySQL/MS SQL Server ke query challenges hain.
-    * *Highlights:* Advanced Joins (Self-Join, Outer Join), CASE statements, aur Window Functions ka use karke analytics queries.
+| Domain | Achievement | Core Competencies |
+| :--- | :--- | :--- |
+| **SQL** | **5-Star Gold Badge** | Advanced Joins, Subqueries, Aggregations, Window Functions, and Database Schema Design. |
+| **Python** | **5-Star Gold Badge** | Functional Programming, Data Structures, List Comprehensions, and Algorithmic Problem Solving. |
 
 ---
 
-### Tech Stack Used
-* **Languages:** Python 3.x, SQL (MySQL / MS SQL Server)
-* **Environment:** HackerRank Online IDE
-* **Concepts:** Algorithm optimization, Data manipulation, Relational Database Management (RDBMS)
+### Project Highlights
+
+#### **SQL: Data Querying & Analysis**
+* Developed complex queries to extract insights from relational databases.
+* Solved challenges involving **Multi-table Joins**, **CASE Statements** for conditional logic, and **Set Operators**.
+* *Focus:* Efficient data retrieval and preparing datasets for analytical reporting.
+
+#### **Python: Logic & Automation**
+* Implemented solutions for data manipulation using Python’s core libraries.
+* Focused on writing **DRY (Don't Repeat Yourself)** code and optimizing time complexity.
+* *Focus:* Automating repetitive tasks and building the logic necessary for Exploratory Data Analysis (EDA).
 
 ---
 
-### Why this matters?
-In assignments ko complete karne se meri capability build hui hai:
-1.  **Logical Thinking:** Complex problems ko chhote modules mein break karna.
-2.  **Data Extraction:** SQL ke zariye raw data se meaningful insights nikalna.
-3.  **Efficiency:** Optimized code likhna jo edge cases ko handle kar sake.
+### Technical Toolkit
+* **Languages:** Python 3.x, SQL (MySQL, PostgreSQL)
+* **Problem Solving:** Data Structures, Strings, Arrays, and Mathematics.
+* **Database Management:** Query Optimization and Relational Algebra.
 
 ---
 
-### Profile Links
-Aap mere live progress aur verified certificates yahan dekh sakte hain:
-* **HackerRank Profile:**  https://www.hackerrank.com/profile/vnandini879
+### Professional Impact
+Earning these certifications is more than just solving puzzles; it represents my commitment to:
+* **Technical Excellence:** Mastering the tools required for a High-Performance Data Analyst role.
+* **Continuous Learning:** Regularly upskilling to stay current with industry standards.
+* **Efficiency:** Writing clean, readable, and scalable code for business applications.
+
+---
+
+### Let's Connect!
+* **HackerRank Profile:** https://www.hackerrank.com/profile/vnandini879
+---
 
 ### Badges 
 ![image](https://github.com/vnandini879/Hacker-Rank-Badges/blob/dbf9868ee6027b64471b525b9df1b5ceb6794aa8/Hacker%20Rank.png)
